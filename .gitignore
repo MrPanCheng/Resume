@@ -1,3 +1,6 @@
 resume.out
 resume.aux
 resume.synctex.gz
+*.aux
+*.out
+*.gz
